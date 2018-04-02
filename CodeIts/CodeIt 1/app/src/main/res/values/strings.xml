@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DartQuiz</string>
+    <string name="answer_text">Do Arsenal suck?</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_text">correct!</string>
+    <string name="incorrect_text">incorrect!</string>
+    <string name="question_soccer">Do Arsenal suck?</string>
+    <string name="question_ivy">Dartmouth is the best Ivy by far?</string>
+    <string name="question_weather">WTF, winter has gone?</string>
+    <string name="question_hope">Is there hope?</string>
+    <string name="prev_button">prev</string>
+    <string name="next_button">next</string>
+    <string name="question_class">Will I get a D in Campbell\'s class?</string>
+    <string name="cheat_button">cheat!</string>
+    <string name="show_answer">show answer</string>
+    <string name="do_you_really_want_to_do_this">Do you really want to do this?</string>
+    <string name="judgement_text">Cheating is wrong</string>
+</resources>
